@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bc16d36-4b4f-4ea8-9c16-8031e3abe979" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aH3zHtit3VGvKtlQPYdLtTayY0" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shrad\IdeaProjects\orangehrm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/shrad/IdeaProjects/orangehrm/src/test/java/com/orangehrm/resources/runners/testnglistener.xml">
+    <configuration name="C:/Users/shrad/IdeaProjects/orangehrm/src/test/java/com/orangehrm/resources/runners/testnglistener.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangehrm" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/orangehrm/resources/runners/testnglistener.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangehrm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrm.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrm.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrm.testsuite.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/shrad/IdeaProjects/orangehrm/src/test/java/com/orangehrm/resources/runners/testnglistener.xml" />
+        <item itemvalue="TestNG.LoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bc16d36-4b4f-4ea8-9c16-8031e3abe979" name="Default Changelist" comment="" />
+      <created>1586378952646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586378952646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586908449377">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="273" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1586908449377" />
+    <state x="438" y="222" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586908466620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="222" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1586908466620" />
+    <state x="421" y="58" key="FileChooserDialogImpl" timestamp="1587155271000">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="58" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587155271000" />
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1586908779642">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586908779642" />
+    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1586908779642">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586908779642" />
+    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1586908779641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586908779641" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1586908779642">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586908779642" />
+    <state x="316" y="45" key="NewModule_or_Project.wizard" timestamp="1587155279001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="316" y="45" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1587155279001" />
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1586383042293">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586383042293" />
+    <state x="91" y="50" key="new project wizard" timestamp="1586380301409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="50" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1586380301409" />
+  </component>
+</project>

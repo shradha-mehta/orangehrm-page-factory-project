@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LetsKode It Test" verbose="1" >
+    <listeners>
+        <listener class-name="com.learn.letskodeit.listeners.Listeners"></listener>
+    </listeners>
+    <test name="LetsKodeIt Login Page Test" >
+        <classes>
+            <class name="com.learn.letskodeit.testsuite.LoginTest" />
+
+        </classes>
+    </test>
+</suite>

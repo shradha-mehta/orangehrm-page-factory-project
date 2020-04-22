@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="96420" started-at="2020-04-16T17:05:18Z" finished-at="2020-04-16T17:06:54Z">
+    <groups>
+      <group name="regression">
+        <method signature="FlightTest.verifyUserShouldFindDestinationAccordingToUserRequirement()[pri:1, instance:uk.co.expedia.testsuite.FlightTest@6574b225]" name="verifyUserShouldFindDestinationAccordingToUserRequirement" class="uk.co.expedia.testsuite.FlightTest"/>
+        <method signature="LoginTest.verifyUserShouldNotLoginWithInvalidUserNameAndPassword()[pri:0, instance:uk.co.expedia.testsuite.LoginTest@2669b199]" name="verifyUserShouldNotLoginWithInvalidUserNameAndPassword" class="uk.co.expedia.testsuite.LoginTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="LoginTest.verifyUserShouldNotLoginWithInvalidUserNameAndPassword()[pri:0, instance:uk.co.expedia.testsuite.LoginTest@2669b199]" name="verifyUserShouldNotLoginWithInvalidUserNameAndPassword" class="uk.co.expedia.testsuite.LoginTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="FlightTest.verifyUserShouldFindDestinationAccordingToUserRequirement()[pri:1, instance:uk.co.expedia.testsuite.FlightTest@6574b225]" name="verifyUserShouldFindDestinationAccordingToUserRequirement" class="uk.co.expedia.testsuite.FlightTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Surefire test" duration-ms="96420" started-at="2020-04-16T17:05:18Z" finished-at="2020-04-16T17:06:54Z">
+      <class name="uk.co.expedia.testsuite.FlightTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:uk.co.expedia.testsuite.FlightTest@6574b225]" name="openBrowser" is-config="true" duration-ms="36551" started-at="2020-04-16T17:06:04Z" finished-at="2020-04-16T17:06:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyUserShouldFindDestinationAccordingToUserRequirement()[pri:1, instance:uk.co.expedia.testsuite.FlightTest@6574b225]" name="verifyUserShouldFindDestinationAccordingToUserRequirement" duration-ms="11902" started-at="2020-04-16T17:06:41Z" finished-at="2020-04-16T17:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldFindDestinationAccordingToUserRequirement -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uk.co.expedia.testsuite.FlightTest@6574b225]" name="tearDown" is-config="true" duration-ms="1550" started-at="2020-04-16T17:06:53Z" finished-at="2020-04-16T17:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uk.co.expedia.testsuite.FlightTest -->
+      <class name="uk.co.expedia.testsuite.LoginTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:uk.co.expedia.testsuite.LoginTest@2669b199]" name="openBrowser" is-config="true" duration-ms="33230" started-at="2020-04-16T17:05:18Z" finished-at="2020-04-16T17:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyUserShouldNotLoginWithInvalidUserNameAndPassword()[pri:0, instance:uk.co.expedia.testsuite.LoginTest@2669b199]" name="verifyUserShouldNotLoginWithInvalidUserNameAndPassword" duration-ms="12013" started-at="2020-04-16T17:05:51Z" finished-at="2020-04-16T17:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNotLoginWithInvalidUserNameAndPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uk.co.expedia.testsuite.LoginTest@2669b199]" name="tearDown" is-config="true" duration-ms="1124" started-at="2020-04-16T17:06:03Z" finished-at="2020-04-16T17:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uk.co.expedia.testsuite.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

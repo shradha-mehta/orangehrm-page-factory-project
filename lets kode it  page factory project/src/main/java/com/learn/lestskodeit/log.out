@@ -1,0 +1,11 @@
+2020-04-21 22:04:579 INFO  BrowserSelector :20 - Launching chrome browser
+2020-04-21 22:04:316 INFO  BrowserSelector :20 - Launching chrome browser
+2020-04-21 22:04:09 INFO  BrowserSelector :20 - Launching chrome browser
+2020-04-21 22:04:579 INFO  BrowserSelector :20 - Launching chrome browser
+2020-04-21 22:04:361 INFO  HomePage :37 - Clicking On Login Link[[ChromeDriver: chrome on WINDOWS (a9062f0903ad6ac02a638d47e847f1e2)] -> partial link text: Login]
+2020-04-21 22:04:846 INFO  BrowserSelector :20 - Launching chrome browser
+2020-04-21 22:04:772 INFO  HomePage :37 - Clicking On Login Link[[ChromeDriver: chrome on WINDOWS (063e21c3c16b492f645993ff4efb449f)] -> partial link text: Login]
+2020-04-21 22:04:960 INFO  BrowserSelector :20 - Launching chrome browser
+2020-04-21 22:04:978 INFO  HomePage :43 - Clicking On Login Link[[ChromeDriver: chrome on WINDOWS (35c728da787afef34d843aeac5ceda02)] -> partial link text: Practi]
+2020-04-21 22:04:326 INFO  BrowserSelector :20 - Launching chrome browser
+2020-04-21 22:04:142 INFO  HomePage :50 - Clicking On Login Link[[ChromeDriver: chrome on WINDOWS (fe7b6944b70fc3cb03c2233046921dbf)] -> id: header-sign-up-btn]

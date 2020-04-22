@@ -1,0 +1,12 @@
+2020-04-18 15:04:686 INFO  HomePage :23 - Clicking on login link By.linkText: Log in
+2020-04-18 15:04:144 INFO  LoginPage :24 - Enter email abc@gmail.comto email field By.id: Email
+2020-04-18 15:04:534 INFO  LoginPage :30 - Enter password abc123to password field By.id: Password
+2020-04-18 15:04:34 INFO  LoginPage :36 - Clicking on login button By.xpath: //input[@class='button-1 login-button']
+2020-04-18 15:04:652 INFO  HomePage :23 - Clicking on login link By.linkText: Log in
+2020-04-18 15:04:653 INFO  LoginPage :41 - Getting text from By.xpath: //div[@class='page-title']//h1
+2020-04-18 15:04:342 INFO       HomePage :23 - Clicking on login link By.linkText: Log in
+2020-04-18 15:04:900 INFO       LoginPage :24 - Enter email abc@gmail.comto email field By.id: Email
+2020-04-18 15:04:220 INFO       LoginPage :30 - Enter password abc123to password field By.id: Password
+2020-04-18 15:04:577 INFO       LoginPage :36 - Clicking on login button By.xpath: //input[@class='button-1 login-button']
+2020-04-18 15:04:526 INFO       HomePage :23 - Clicking on login link By.linkText: Log in
+2020-04-18 15:04:527 INFO       LoginPage :41 - Getting text from By.xpath: //div[@class='page-title']//h1

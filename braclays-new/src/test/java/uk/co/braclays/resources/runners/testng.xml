@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="braclays-new It Test" verbose="1" >
+    <listeners>
+        <listener class-name="uk.co.braclays.listeners.Listeners"></listener>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+    </listeners>
+    <test name="braclays-new Login Page Test" >
+        <classes>
+            <class name="uk.co.braclays.testsuite.LoginTest" />
+        </classes>
+    </test>
+
+</suite>

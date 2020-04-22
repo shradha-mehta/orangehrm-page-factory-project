@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parameter Suite" verbose="1" >
+    <test name="Parameter Test">
+        <parameter name="MyName" value="Jay"></parameter>
+        <classes>
+            <class name="com.demo.nopcommerce.TesstNG.TestNGParametersDemo"></class>
+        </classes>
+    </test>
+</suite>
