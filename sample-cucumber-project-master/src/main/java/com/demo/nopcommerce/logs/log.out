@@ -1,0 +1,3 @@
+2020-04-25 08:04:34 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-25 08:04:649 INFO  HomePage :25 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1dc492240589c0703c6b5712ada27226)] -> link text: Log in]
+2020-04-25 08:04:688 INFO  LoginPage :46 - Getting text from : [[ChromeDriver: chrome on WINDOWS (1dc492240589c0703c6b5712ada27226)] -> xpath: //div[@class='page-title']//h1]
